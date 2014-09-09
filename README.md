@@ -1,4 +1,4 @@
-Swarmops
+Moved
 ========
 
-Swarmops - a package for Human Resource Management for organizations that hate this kind of paperwork and want to spend their time building stuff instead. A bureaucrat system for people who aren't, and have no intention to ever be, bureaucrats.
+This project has MOVED to the more fitting https://github.com/Swarmops/Swarmops. That's also the new master copy, not just a watch copy of the source tree.
